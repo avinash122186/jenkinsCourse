@@ -66,6 +66,7 @@ Having trouble with Spring Boot? We'd like to help!
   you are just starting out with Spring, try one of the http://spring.io/guides[guides].
 * Ask a question - we monitor http://stackoverflow.com[stackoverflow.com] for questions
   tagged with http://stackoverflow.com/tags/spring-boot[`spring-boot`].
+  test
 * Report bugs with Spring Boot at https://github.com/spring-projects/spring-boot/issues[github.com/spring-projects/spring-boot/issues].
 
 
